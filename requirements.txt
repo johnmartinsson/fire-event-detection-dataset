@@ -1,0 +1,10 @@
+h5py
+numpy
+pandas
+tqdm
+librosa
+torch
+torchlibrosa
+seaborn
+matplotlib
+tensorboard
