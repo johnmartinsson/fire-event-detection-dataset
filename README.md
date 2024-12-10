@@ -1,3 +1,8 @@
+# A Novel Method for Smart Fire Detection Using Acoustic Measurements and Machine Learning: Proof of Concept
+The official implementation of the paper "A Novel Method for Smart Fire Detection Using Acoustic Measurements and Machine Learning: Proof of Concept".
+
+[Paper](https://johnmartinsson.org/publications/2022/smart-fire-detection)
+
 # Fire event detection dataset
 This repository contains the instructions on how to download and prepare the fire event detection dataset, and how to to download and evaluate the baseline model, as well as how to train the baseline model on this dataset.
 
