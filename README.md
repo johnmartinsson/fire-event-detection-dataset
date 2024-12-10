@@ -3,6 +3,17 @@ The official implementation of the paper "A Novel Method for Smart Fire Detectio
 
 [Paper](https://johnmartinsson.org/publications/2022/smart-fire-detection)
 
+Cite as:
+
+    @article{Martinsson2022a,
+      author = {Martinsson, John and Runefors, Marcus and Frantzich, H{\aa}kan and Glebe, Dag and McNamee, Margaret and Mogren, Olof},
+      title = {A Novel Method for Smart Fire Detection Using Acoustic Measurements and Machine Learning: Proof of Concept},
+      journal = {Fire Technology},
+      year = {2022},
+      pages = {3385--3403},
+      doi = {10.1007/s10694-022-01307-1}
+    }
+
 # Fire event detection dataset
 This repository contains the instructions on how to download and prepare the fire event detection dataset, and how to to download and evaluate the baseline model, as well as how to train the baseline model on this dataset.
 
